@@ -1,3 +1,5 @@
 # CSS Grid Layout
 
-## Zero2Mastery CSS Exercise
+## A HTML and CSS template for basic website that is responsive on multiple screen size
+
+### Zero2Mastery
